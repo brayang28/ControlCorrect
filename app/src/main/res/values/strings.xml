@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Domipharma</string>
+    <string name="boton_inicio">Iniciar sesión</string>
+    <string name="boton_registrar">Registrar</string>
+    <string name="texto_registrar">Registrar número</string>
+    <string name="textoO">o</string>
+    <string name="texto_iniciar">Iniciar sesión</string>
+    <string name="textoDomipharma">DOMI-PHARMA</string>
+    <string name="textContra">Contraseña</string>
+    <string name="textNumCel">Número celular</string>
+    <string name="textCodVer">Código de verificación</string>
+    <string name="ponerCodVer">-</string>
+    <string name="textCreeContra">Cree una contraseña</string>
+    <string name="textNewContra">Nueva contraseña</string>
+    <string name="textCondContra">La contraseña debe tener 6 a 12 caracteres incluyendo mayúsculas, minúsculas y números</string>
+    <string name="textConfContra">Confirmar contraseña</string>
+    <string name="title_activity_buscar">Buscar</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="textMasVendido">Lo más vendido</string>
+    <string name="textPromo">Promociones:</string>
+    <string name="Flecha"><![CDATA[<---]]></string>
+</resources>
