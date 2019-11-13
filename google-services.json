@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "364026732262",
+    "firebase_url": "https://controlcorrect.firebaseio.com",
+    "project_id": "controlcorrect",
+    "storage_bucket": "controlcorrect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364026732262:android:8d306a61c37993ee6ba527",
+        "android_client_info": {
+          "package_name": "com.example.controlcorrect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364026732262-ppfqq2p0l267clv3mmejn9uhit6dql1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcHupoEds-vRRYPNL2xOwdqaqdHqUVIQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364026732262-ppfqq2p0l267clv3mmejn9uhit6dql1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

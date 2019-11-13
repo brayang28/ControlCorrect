@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/fondo_1"
     tools:context=".MainActivity">
 
     <Button
@@ -15,9 +14,7 @@
         android:layout_marginTop="24dp"
         android:layout_marginEnd="96dp"
         android:layout_marginBottom="40dp"
-        android:background="@color/Oscuro"
         android:text="@string/boton_inicio"
-        android:textColor="@color/Blanco"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -64,9 +61,7 @@
         android:layout_marginStart="96dp"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="96dp"
-        android:background="@color/Oscuro"
-        android:text="@string/boton_registrar"
-        android:textColor="@color/Blanco"
+        android:text="@string/registrar"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
