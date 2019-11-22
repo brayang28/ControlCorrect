@@ -58,7 +58,7 @@ public class AddVenci extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 String fecha = fv.getText().toString();
-                int cod = Integer.parseInt(codBar.getText().toString());
+                String cod = codBar.getText().toString();
 
                 agregarProductosFirebase(cod, fecha);
 
@@ -71,7 +71,7 @@ public class AddVenci extends AppCompatActivity {
 
     }
 
-    private void agregarProductosFirebase(int codBar, String fv) {
+    private void agregarProductosFirebase(String codBar, String fv) {
         Map<String, Object> datosVencimiento = new HashMap<>();
         datosVencimiento.put("codigo", codBar);
         datosVencimiento.put("fv", fv);
