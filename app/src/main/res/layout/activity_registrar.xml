@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/fondo"
     tools:context=".Registrar">
 
     <TextView
@@ -99,6 +100,8 @@
         android:layout_marginEnd="96dp"
         android:layout_marginBottom="40dp"
         android:text="@string/boton_inicio"
+        android:background="@color/colorPrimaryhhhh"
+        android:textColor="@color/colorAccentwhite"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

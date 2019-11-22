@@ -103,5 +103,4 @@ public class Registrar extends AppCompatActivity {
             }
         });
     }
-
 }

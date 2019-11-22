@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Principal"></activity>
+        <activity android:name=".AddVenci"></activity>
+        <activity android:name=".Vencimiento" />
+        <activity android:name=".InformeDia" />
+        <activity android:name=".TareasEmpleados" />
+        <activity android:name=".Principal" />
         <activity android:name=".Registrar" />
         <activity android:name=".MainActivity">
             <intent-filter>
